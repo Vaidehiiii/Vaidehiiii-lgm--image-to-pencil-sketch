@@ -6,5 +6,7 @@ Overview
 This project showcases the process of creating a pencil sketch effect from any given image using Python and fundamental image manipulation libraries. The script reads an image file, applies a series of image processing steps, and generates a resulting pencil sketch. This project is a creative and artistic way to reimagine your photos.
 
 Features
-Convert regular images to pencil sketches.
-Adjustable parameters for controlling the sketch effect intensity.
+
+1. Convert regular images to pencil sketches.
+
+2. Adjustable parameters for controlling the sketch effect intensity.
